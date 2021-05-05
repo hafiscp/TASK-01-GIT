@@ -51,7 +51,7 @@
 |3|Pravitha|-|
 |4|Adil|-|
 |5|Greeshma|-|
-|6|Adithya|-|
+|6|Adithya|https://github.com/adithyanandakumar/TASK-01-GIT|
 
 |Net Weavers|Name|Repo Address|  
 |-----------|----|------------|
