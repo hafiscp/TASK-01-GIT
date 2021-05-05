@@ -29,7 +29,7 @@
 
 |Data Pirates|Name|Repo Address|  
 |------------|----|------------|
-|1|Najiya|-|
+|1|Najiya|https://github.com/fathimanajiya/TASK-01-GIT|
 |2|Hafis|-|
 |3|Prathul|-|
 |4|Swathy|-|
